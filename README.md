@@ -1,5 +1,13 @@
 #Mini analizador lexico 
 
+Datos 
+Orlando Javier Loredo Padilla 
+217560328
+López Franco Michel Emanuel 
+Seminario Traductores II D02
+
+Descripción
+
 El programa funciona haciendo uso de una comparación, verificando la estructura de un puede tener tanto un elemento identificador como uno real de esta manera al ingresar el texto que queremos podemos ver de que tipo se trata. 
 
 Captura del programa 
